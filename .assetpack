@@ -1,0 +1,14 @@
+{
+	"js": [
+		"/jquery/dist/jquery.js",
+		"/jquery-ujs/src/rails.js",
+		"/bootstrap/dist/js/bootstrap.js",
+		"/jquery-validation/dist/jquery.validate.js",
+		"/jquery-tipsy/js/jquery.tipsy.js",
+		"/slimScroll/jquery.slimscroll.js"
+	],
+	"css": [
+		"/bootstrap/dist/css/bootstrap.css",
+		"/jquery.tipsy/css/jquery.tipsy.css"
+	]
+}

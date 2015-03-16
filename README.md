@@ -1,2 +1,4 @@
-# grunt-bower-setup
+
+wer-setup
+
 Setup grunt with bower packages
