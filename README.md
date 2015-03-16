@@ -1,5 +1,5 @@
 
-wer-setup
+grunt-bower-setup
 
 Setup grunt with bower packages
 
